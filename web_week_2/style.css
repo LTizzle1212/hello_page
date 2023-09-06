@@ -1,0 +1,47 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.favorite-section {
+    background-color: grey;
+    border: 3px black;
+    margin: 5px;
+    padding: 10px;
+}
+
+h2 {
+    background-color: white;
+}
+
+body {
+    background-color: black;
+}
+
+#favorite-movie-title {
+    background-color: blue;
+    font-style: italic;
+}
+
+#favorite-music-name {
+    background-color: blue;
+    font-weight: bold;
+}
+
+#most-favorite {
+    font-size: 36;
+}
+
+#favorite-image {
+    border-radius: 10px;
+}
+
+th {
+    background-color: green;
+    border: 3px black;
+}
+
+td {
+    background-color: purple;
+    border: 3px black;
+}
